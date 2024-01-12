@@ -19,24 +19,23 @@
    languages.learned:
      {
        Web_Development: ("HTML"), "CSS", "JavaScript"
-        Android_Development: "Flutter",
+       Android_Development: "Flutter",
        Minecraft_Stuff: "Java",
      }
 
    software.knowledge:
      {
-        Adobe: "Photoshop", "Premiere_Pro"
-        MS_Office: "Word", "Powerpoint", "OneNote", "OneDrive"        
-        Code_Editor: "VS_Code", "IntelliJ_Idea", "Android_Studio", ("Notepad++")
+       Adobe: "Photoshop", "Premiere_Pro"
+       MS_Office: "Word", "Powerpoint", "OneNote", "OneDrive"        
+       Code_Editor: "VS_Code", "IntelliJ_Idea", "Android_Studio", ("Notepad++")
      }
 
    goals.this.year:
      {
-        "learn how to make a beautiful Flutter app",
+       "learn how to make a beautiful Flutter app",
        "Improve my web development skills (Code optimazation)",
-        "learn how to make my own client for Minecraft with Fabric"
+       "learn how to make my own client for Minecraft with Fabric"
      }
-
 
     my.hobbies: ["Gaming", "Programming", "GYM", "PC_Tuning"]
     languages.learned: ["Macedonian", "Serbian", "Englisch", "German", "French"]
