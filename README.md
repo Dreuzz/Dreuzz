@@ -9,7 +9,7 @@
   ```yaml
   package net.dreuzzz.about-me;
 
-  if (AboutMe.isAsked()): {
+  if (aboutMe.isAsked()): {
   
    username.name: Dreuzzz
    location.born: Macedonia
