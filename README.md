@@ -6,7 +6,7 @@
   </div>
   <div align="left">  
 
-  ```yaml
+  ```java
   package net.dreuzzz.about-me;
 
   if (aboutMe.isAsked()): {
