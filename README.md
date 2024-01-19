@@ -9,7 +9,7 @@
   ```java
   package net.dreuzzz.about-me;
 
-  if (aboutMe.isAsked()): {
+  public void aboutMe() {
   
    username.name: Dreuzzz
    location.born: Macedonia
