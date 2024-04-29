@@ -6,42 +6,7 @@
   </div>
   <div align="left">  
 
-  ```java
-  package net.dreuzzz.about-me;
-
-  public void aboutMe() {
-  
-   username.name: Dreuzzz
-   location.born: Macedonia
-   location.current: Germany
-   education.current: Student / 9th grade
-
-   languages.learned:
-     {
-       Web_Development: ("HTML"), "CSS", "JavaScript"
-       Android_Development: "Flutter",
-       Minecraft_Stuff: "Java",
-     }
-
-   software.knowledge:
-     {
-       Adobe: "Photoshop", "Premiere_Pro"
-       MS_Office: "Word", "Powerpoint", "OneNote", "OneDrive"        
-       Code_Editor: "VS_Code", "IntelliJ_Idea", "Android_Studio", ("Notepad++")
-     }
-
-   goals.this.year:
-     {
-       "learn how to make a beautiful Flutter app",
-       "Improve my web development skills (Code optimazation)",
-       "learn how to make my own client for Minecraft with Fabric"
-     }
-
-    my.hobbies: ["Gaming", "Programming", "GYM", "PC_Tuning"]
-    languages.learned: ["Macedonian", "Serbian", "Englisch", "German", "French"]
-
-  }
-  ```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=50&duration=3500&pause=2000&color=5527F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=I+%E2%9D%A4%EF%B8%8F+Hyprland)](https://git.io/typing-svg)
 
 </div>
   <div class="about-me" align="center">
