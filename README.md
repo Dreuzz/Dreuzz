@@ -17,6 +17,6 @@
 </div>
   <div class="stats">
       <img height=150 align="center" src="https://readme-stats-dreuzzz1s-projects.vercel.app//api?username=dreuzz&card_width=250&include_all_commits=true&custom_title=Dreuzzz%20Statistics!&hide_rank=false&hide=prs,issues&show_icons=true&theme=github_dark_dimmed&hide-border=true"/>
-      <img height=150 align="center" src="https://readme-stats-dreuzzz1s-projects.vercel.app/api/top-langs?username=dreuzz&card_width=300&custom_title=My%20Favourite%20Languages&theme=github_dark_dimmed&layout=compact&exclude_repo=Dreuzz,readme-stats&hide-border=true">
+      <img height=150 align="center" src="https://readme-stats-dreuzzz1s-projects.vercel.app/api/top-langs?username=dreuzz&card_width=300&custom_title=My%20Favourite%20Languages&theme=github_dark_dimmed&layout=compact&exclude_repo=Dreuzz,readme-stats,a&hide=Cmake,c%2B%2B,Swift,c,kotlin,Objective-C&hide-border=true">
   </div>
 </div>
